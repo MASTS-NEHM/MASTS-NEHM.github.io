@@ -1,10 +1,6 @@
 ---
 layout: page
-published: true
 title: Community
-permalink: /community/
-Nav_include: yes
-Nav_order: 2
 ---
 
 ## Regulatory/public organisations

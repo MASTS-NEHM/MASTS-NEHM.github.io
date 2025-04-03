@@ -2,9 +2,6 @@
 layout: page
 published: true
 title: Objectives
-permalink: /community/
-Nav_include: yes
-Nav_order: 1
 ---
 
 ## Establishing a “living document” as a resource and a forum
