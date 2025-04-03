@@ -19,10 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: MASTS Numerical and Experimental Hydrodynamic Modelling Forum
-subtitle: Modelling of Scottish Coastal Waters: A Roadmap
 email: rory.murray@gov.scot
 description: >- # this means to ignore newlines until "baseurl:"
-  Our oceans provide many life-sustaining benefits to coastal communities, including food, water, energy and employment, as well as affecting our weather and climate, including providing a sink for excess heat and carbon in the atmosphere. Management of the marine environment should consider many factors. Sustainable management of marine resources is central, as is stewardship of Scottish Coastal waters for future generations. A number of industries and communities need to co-exist. The environment, industries and communities need to be resilient to climate change and other shocks. Scottish coastal areas should be prosperous and content. Therefore, many pressures and outcomes must be considered in planning and projecting possible futures. Modelling can be a key tool in those projections.
+  Modelling of Scottish Coastal Waters: A Roadmap
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://masts-nehm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
