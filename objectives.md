@@ -1,7 +1,7 @@
 ---
 layout: page
-published: true
-title: Objectives
+title: "Objectives"
+permalink: /objectives/
 ---
 
 ## Establishing a “living document” as a resource and a forum
